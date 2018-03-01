@@ -1,0 +1,19 @@
+{
+  "name": "@dagoloubev/how-to-npm",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Hello World!",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dagoloubev/nodeschool/how-to-npm"
+  }
+}
