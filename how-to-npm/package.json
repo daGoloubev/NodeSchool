@@ -1,6 +1,6 @@
 {
   "name": "@dagoloubev/how-to-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -8,9 +8,7 @@
   "author": "",
   "license": "ISC",
   "description": "Hello World!",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
